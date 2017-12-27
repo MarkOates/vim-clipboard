@@ -1,0 +1,7 @@
+*vimclipb.txt* Add clipboard functionality to VIM for MacOS
+
+This plugin enables copying and pasting to the system clipboard when yanking
+
+Mapping:
+
+There are no mappings.
